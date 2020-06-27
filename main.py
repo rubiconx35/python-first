@@ -5,3 +5,4 @@ def main(msg):
 
 main ('Hello People')
 main ('Hello man')
+main ('mars1')
